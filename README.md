@@ -20,4 +20,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaodat&label=Profile%20views&color=0e75b6&style=flat" alt="yaodat" /> </p>
 
 
-<a href="https://info.flagcounter.com/7bRZ"><img src="https://s01.flagcounter.com/countxl/7bRZ/bg_272343/txt_BAE8E8/border_E3F6F5/columns_5/maxflags_40/viewers_Profile+Visitors/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://www.flagcounter.me/details/c40"><img src="https://www.flagcounter.me/c40/" alt="Flag Counter"></a>
