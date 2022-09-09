@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I am Yaser Odat, a Full-Stack Developer</h3>
+<h3 align="center">Hi, I am Yaser Odat, a Full-Stack developer</h3>
 
 
 <p align="center"> <a href="https://twitter.com/yaserodat8" target="blank"><img src="https://img.shields.io/twitter/follow/yaserodat8?logo=twitter&style=for-the-badge" alt="yaserodat8" /></a> </p>
